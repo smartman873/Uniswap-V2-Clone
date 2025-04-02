@@ -24,3 +24,5 @@ $ cat out/UniswapV2Pair.sol/UniswapV2Pair.json | jq -r .bytecode.object | xargs 
    price oracle, integer overflow and underflow, safe transfer.
 1. [Part 3](https://jeiwan.net/posts/programming-defi-uniswapv2-3/), factory contract, CREATE2 opcode, Router contract, Library contract
 1. [Part 4](https://jeiwan.net/posts/programming-defi-uniswapv2-4/), LP-tokens burning bug, liquidity removal, output amount calculation, swapExactTokensForTokens, swapTokensForExactTokens, fixing swap fee bug, flash loans, fixing re-entrancy vulnerability, protocol fees
+
+<!-- Update 2 -->

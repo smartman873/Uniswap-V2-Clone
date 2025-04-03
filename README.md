@@ -26,3 +26,6 @@ $ cat out/UniswapV2Pair.sol/UniswapV2Pair.json | jq -r .bytecode.object | xargs 
 1. [Part 4](https://jeiwan.net/posts/programming-defi-uniswapv2-4/), LP-tokens burning bug, liquidity removal, output amount calculation, swapExactTokensForTokens, swapTokensForExactTokens, fixing swap fee bug, flash loans, fixing re-entrancy vulnerability, protocol fees
 
 <!-- Update 2 -->
+
+
+<!-- Update 3 -->

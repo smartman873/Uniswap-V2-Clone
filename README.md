@@ -1,4 +1,4 @@
-# ZUniswapV2, a clone of UniswapV2 made in educational purposes
+# UniswapV2, a clone of UniswapV2 made in educational purposes
 
 ## Using this repo
 
